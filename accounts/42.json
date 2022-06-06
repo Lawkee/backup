@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lawkeeplyaml",
+  "private_key_id": "274bf7fe5870ce3451cd7883e8b5f0db30f17073",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqmuKOdUeWWQQA\nVmA+xXkWGGuMpMeNIB4hFGuRWRhpN+dPWYl3S7ehXiU1menCjySRNGJRQ40WzEkV\n00ipcs2EqTUITMMck5H120kCbY0kb8XiOG3nRKob3AsBfCwlFqrWRzeewXhIIxZP\nE3OOOud/EZZU5TH6RUiZmLs/lLZSRFEWhGO24IvNcv+3pR0thIBLZ7kcjqUZirro\nlioo6xikK4jnvaLXaZDnQ/SR68Vo9HEaBIrqkzKQi22qjWBCYjKzCIsDDMKxzQba\nv8S02HRVkSLArwvgi0KLpQbjN+2BHSe/JD6f0VoPiXhaz9CIpcVFxBPwOsbBgCOR\nihMEcXvxAgMBAAECggEABzaSPDy0+j3cP4yakbzbedwuQlC+bfb8+LmtmWq5CTKh\nMVRgGm7Vawyy3QybYUVlFRov/mIxRzsu63qdHvdcI7vcIqdmm0EABSZjp8C5aXnf\nIq/vfnCdEp15ZHNhq6KRz/Dl5wZXqN3wgqDLaQ8p6Rz1jE3xqk4fAjBLcz/Wr5N8\nu/loVL6eZFwfhBRpwX887qm/vg1lhPSlkxzAbHR8ccltB29zP0Ll3GmomYgqgKqt\nTSLJRugg2RTVAo9aIDzzIGMV6YO2LrOvPTuOp2jHpWyZLo7QTVx7vmUH7Jnx4NF+\nv2lqDOL3kP65LnMWjYoE/oOG0rUnVFL6d4wBPM4cKwKBgQDj5EQUKHGVmvAGzZY1\n2hoKimyebaY2pMICYUMgABZMERpePkrWCDIdel4X/5BV9rRY/qNaK4Qkqug16XZc\niUAF7FxSqlhudBs0H184UOT4VMrJtd7NoHu54LngNsoC+j8xTyqiIYMWdo0+X8/2\n1Vzjsdbrn0tf3iL9Zc7Y1fdzcwKBgQC/pceMhzQ8bIoies9rhiNKS0eCXJ0ZrOnS\nJtvdNjVO9xleirGzLgM2U+VMAK6GzvImEy+YTjb2D1DkFnXq5jP2h/6951dZbDmC\nv9ldzUfItCvRXTmBX3vB8QQosaI6gH6jmdu+2klOn4JEKgmPatFH5TLoV8+gQR6H\nYUOV1IziCwKBgQCjjgDaIsiaIW+gwk3K6nQEGqKn9XP0Bb0DrkBZqBZYk3HEL5rQ\nD2PASkFbodw6Bewbbu1X2qFlG4+6mYqMESj011TPM1hyNTwM5XMWXOBn5ZsAt1ln\nZIVHuyRL6aaECovt3K5xW/HT3lOyb1s3AJxBAjKIOnQDIs8j47xXXQDSRwKBgBJh\nBqMOcE7/JbwqxOuN4KKGV6RD13kX4RCbU2iCg1hAUDmF2YbSedJi91Fzm0koXYaT\nPnQ/w/uS+nH1SXeuffs9jYuOvQzBWT6VwXXCcwjnZnBcnWAv1QGDaJ+ycVlk60Ar\nSCykaHVWzLpWwbX0S3+2lkw755h5xkC7bizXRm+DAoGBAM3XV6Wb8eNmZWiCmiTR\nKf8pL6ARKsVm31cJlfIoxnjAqu+cBGOoTBgF3i5sW5eXoCge2xGcS0jUsr0BtDkC\n9BrjThJhjIGEngEvaY3BFxGDMt5AeRcgPSVUThAas1kMgdMGRF7NAhAXs9gQ+7i2\n86u8+rl3zZ5SzFERHJ+DVQfn\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-u2uhpgq43omzgz3pnohojv4gjw@lawkeeplyaml.iam.gserviceaccount.com",
+  "client_id": "103438487690086207516",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-u2uhpgq43omzgz3pnohojv4gjw%40lawkeeplyaml.iam.gserviceaccount.com"
+}
